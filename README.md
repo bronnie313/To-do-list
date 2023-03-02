@@ -105,7 +105,7 @@ A project was built Using
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [See WEB here]()not deployed yet
+- [See WEB here](https://github.com/bronnie313/To-do-list.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,7 +129,7 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:  cd my-folder  git clone git@github.com/bronnie313/to-do-list.git
+Clone this repository to your desired folder:  cd my-folder  git clone git @https://github.com/bronnie313/To-do-list.git
 
 ### Install
 
@@ -148,7 +148,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:https:https://github.com/bronnie313/to-do-list.git
+To run the project, execute the following command:https://github.com/bronnie313/To-do-list.git
 
 <!--
 Example command:
@@ -172,7 +172,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:https://github.com/bronnie313/books.git
+You can deploy this project using: https://github.com/bronnie313/To-do-list.git
 
 <!--
 Example:
