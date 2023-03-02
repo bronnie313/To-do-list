@@ -133,9 +133,7 @@ Clone this repository to your desired folder:  cd my-folder  git clone git @http
 
 ### Install
 
-Install this project with: 
-cd to-do-list
-npm install
+Install this project with: cd to-do-list npm install
 
 <!--
 Example command:
@@ -160,7 +158,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command: https://bronnie313.github.io/books/
+To run tests, run the following command: https://bronnie313.github.io/To-do-list/
 
 <!--
 Example command:
