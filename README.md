@@ -105,7 +105,7 @@ A project was built Using
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [See WEB here](https://bronnie313.github.io/books/)
+- [See WEB here]()not deployed yet
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,12 +129,12 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:  cd my-folder  git clone git@github.com/bronnie313/books.git
+Clone this repository to your desired folder:  cd my-folder  git clone git@github.com/bronnie313/to-do-list.git
 
 ### Install
 
 Install this project with: 
-cd books
+cd to-do-list
 npm install
 
 <!--
@@ -148,7 +148,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:https:https://github.com/bronnie313/books.git
+To run the project, execute the following command:https:https://github.com/bronnie313/to-do-list.git
 
 <!--
 Example command:
@@ -197,10 +197,10 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-- [ ] **Hiring credentials**
-- [ ] **Stories**
-- [ ] **Post option**
-- [ ] **Comment Section**
+- [ ] **Editing option**
+- [ ] **Adding task**
+- [ ] **Deleting task**
+- [ ] **recycle**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -210,7 +210,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [Awesome books](../../issues/).
+Feel free to check the [To-Do List](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -238,4 +238,4 @@ I would like to thank every one of you for the constant hard work and dedication
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/bronnie313/books/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/bronnie313/To-do-list/blob/main/LICENSE) licensed.
