@@ -33,6 +33,7 @@ form > input {
   padding: 0.5rem;
   border: none;
   font-style: italic;
+  outline: none;
 }
 
 form > button {
@@ -65,10 +66,33 @@ ul {
 }
 
 .view-more {
+  display: block;
   border: none;
   background: white;
 }
 
 p {
   width: 85%;
+}
+
+.editBtn {
+  display: none;
+  border: none;
+  background: white;
+}
+
+.deleteBtn {
+  display: none;
+  border: none;
+  background: white;
+}
+
+#editable {
+  outline: none;
+}
+
+.saveBtn {
+  display: none;
+  border: none;
+  background: white;
 }
