@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Wz6NHkNeHYvPD_DxSCvTVI0AjhL4RaX_0g&usqp=CAU" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>SPA awesome books ES6</b></h3>
+  <h3><b>To do List</b></h3>
 
 </div>
 
@@ -62,7 +62,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 To-Do List<a name="about-project"></a>
 
-**To-Do List** is a student's a project that displays "A To-Do List project" and tests microverse students their understanding of the ES6 modules syntax and wepack and served dev server
+**To-Do List** is a project that displays "A To-Do List project" where one can use it to store daily task in the local storage with key functionalities of add, delete and edit the tasks that are being added. This To-Do List also allow one to select all or select some of the finished tasks or tasks that are completed and are cleared
 
 ## 🛠 Built With <a name="built-with"></a>
 
