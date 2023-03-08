@@ -33,7 +33,6 @@ form > input {
   padding: 0.5rem;
   border: none;
   font-style: italic;
-  outline: none;
 }
 
 form > button {
@@ -44,6 +43,7 @@ form > button {
 form > button > i {
   transform: rotate(90deg);
   padding: 0.5rem;
+  cursor: pointer;
 }
 
 #clear {
@@ -53,7 +53,7 @@ form > button > i {
   border: none;
 }
 
-ul {
+div {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -63,36 +63,26 @@ ul {
   display: flex;
   gap: 0.5rem;
   border-bottom: 1px solid lightgray;
+  padding: 10px;
 }
 
-.view-more {
-  display: block;
+.deleteBtn,
+.editBtn,
+.saveBtn {
   border: none;
   background: white;
+  font-size: 100%;
 }
 
 p {
   width: 85%;
 }
 
-.editBtn {
-  display: none;
-  border: none;
-  background: white;
-}
-
-.deleteBtn {
-  display: none;
-  border: none;
-  background: white;
-}
-
-#editable {
+.area {
+  width: 84%;
   outline: none;
 }
 
-.saveBtn {
-  display: none;
-  border: none;
-  background: white;
+#task {
+  outline: none;
 }
