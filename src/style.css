@@ -43,6 +43,7 @@ form > button {
 form > button > i {
   transform: rotate(90deg);
   padding: 0.5rem;
+  cursor: pointer;
 }
 
 #clear {
@@ -52,7 +53,7 @@ form > button > i {
   border: none;
 }
 
-ul {
+div {
   list-style: none;
   padding: 0;
   margin: 0;
@@ -62,13 +63,26 @@ ul {
   display: flex;
   gap: 0.5rem;
   border-bottom: 1px solid lightgray;
+  padding: 10px;
 }
 
-.view-more {
+.deleteBtn,
+.editBtn,
+.saveBtn {
   border: none;
   background: white;
+  font-size: 100%;
 }
 
 p {
   width: 85%;
+}
+
+.area {
+  width: 84%;
+  outline: none;
+}
+
+#task {
+  outline: none;
 }
