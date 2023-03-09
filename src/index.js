@@ -72,6 +72,3 @@ clear.addEventListener('click', () => {
 //   }
 //   displayTask();
 // });
-
-
-
