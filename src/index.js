@@ -51,13 +51,27 @@ window.onload = () => {
 const clear = document.getElementById('clear');
 
 clear.addEventListener('click', () => {
-  let todo = JSON.parse(localStorage.getItem('tasks'));
-  todo = todo.filter((item) => !item.completed);
-  localStorage.setItem('tasks', JSON.stringify(todo));
-  for (let i = 0; i < todo.length; i += 1) {
-    const todo = JSON.parse(localStorage.getItem('tasks')) || [];
-    todo[i].index = i + 1;
-    localStorage.setItem('tasks', JSON.stringify(todo));
+  listName = JSON.parse(localStorage.getItem('tasks')) || [];
+  listName = listName.filter((item) => !item.completed);
+  // localStorage.setItem('tasks', JSON.stringify(listName));
+  for (let i = 0; i < listName.length; i += 1) {
+    listName[i].index = i + 1;
   }
+  localStorage.setItem('tasks', JSON.stringify(listName));
   displayTask();
 });
+
+// clear.addEventListener('click', () => {
+//   let todo = JSON.parse(localStorage.getItem('tasks'));
+//   todo = todo.filter((item) => !item.completed);
+//   localStorage.setItem('tasks', JSON.stringify(todo));
+//   for (let i = 0; i < todo.length; i += 1) {
+//     const todo = JSON.parse(localStorage.getItem('tasks')) || [];
+//     todo[i].index = i + 1;
+//     localStorage.setItem('tasks', JSON.stringify(todo));
+//   }
+//   displayTask();
+// });
+
+
+

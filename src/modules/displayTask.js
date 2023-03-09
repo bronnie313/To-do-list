@@ -49,4 +49,3 @@ const displayTask = () => {
 
 export default displayTask;
 
-// export default makeTaskEditable;
