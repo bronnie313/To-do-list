@@ -105,7 +105,7 @@ A project was built Using
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [See WEB here](https://github.com/bronnie313/To-do-list.git)
+- [See WEB here](https://bronnie313.github.io/To-do-list/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,7 +146,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:https://github.com/bronnie313/To-do-list.git
+To run the project, execute the following command: npm run build
 
 <!--
 Example command:
@@ -158,7 +158,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command: https://bronnie313.github.io/To-do-list/
+To run tests, run the following command: npm start
 
 <!--
 Example command:
@@ -170,7 +170,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using: https://github.com/bronnie313/To-do-list.git
+You can deploy this project using: https://bronnie313.github.io/To-do-list/dist/
 
 <!--
 Example:
