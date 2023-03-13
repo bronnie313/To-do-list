@@ -30,7 +30,7 @@ const displayTask = () => {
     items.innerHTML += `
         <div class="to-do-item">
           <input id="check${i}" type="checkbox" ${isChecked}>
-          <div id="area${i}" class="area" contentEditable="true">${listName[i].text}</div>
+          <div id="area${i}" class="area" contentEditable="true" required>${listName[i].text}</div>
           <button id="delete${i}" class="deleteBtn"><i class="fa-solid fa-trash-can"></i></button>
         </div>
       `;

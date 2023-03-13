@@ -11,6 +11,7 @@ body {
   padding: 0 0.5rem;
   background-color: white;
   margin-top: 10%;
+  box-shadow: 10px 10px 10px hsl(0deg 15.43% 49.12% / 50%);
 }
 
 .title {
