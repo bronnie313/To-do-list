@@ -64,6 +64,10 @@ After you're finished please remove all the comments and instructions!
 
 **To-Do List** is a project that displays "A To-Do List project" where one can use it to store daily task in the local storage with key functionalities of add, delete and edit the tasks that are being added. This To-Do List also allow one to select all or select some of the finished tasks or tasks that are completed and are cleared
 
+**Screen Shot of the To-do list**
+![to-do pic](https://user-images.githubusercontent.com/37089236/225868206-e730116a-f519-4da9-87cc-129dc6f769e4.JPG)
+
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
